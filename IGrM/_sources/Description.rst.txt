@@ -1,0 +1,15 @@
+How to Use
+================================
+
+Most useful halo information is stored in the `prop` 
+attribute of the `class halo_props`. And to modify what 
+to be calculated, one will need to provide a new field 
+dictionary similarly organized as the default field 
+dictionary. Note that quantities related to temperature 
+and luminosity are mostly hard coded, so you may need to 
+modify the source code to meet your own requirements.
+
+Generally there are four types of properties stored in 
+the `prop` attribute: R (radius), M (mass), T (temperature) 
+and S (entropy). And the following list explains the physical 
+meaning of the terms in the default field dictionary.
