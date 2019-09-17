@@ -1,6 +1,6 @@
 # Zhiwei Shao
 Welcome to my personal page!
 
-## [CV](./CV/cv_2.pdf)
+## [CV](./CV/cv.pdf)
 
 ## [XIGrM](https://xigrm.readthedocs.io)
