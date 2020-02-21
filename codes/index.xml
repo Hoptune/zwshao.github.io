@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes | Zhiwei Shao&#39;s Homepage</title>
+    <link>https://zwshao.com/codes/</link>
+      <atom:link href="https://zwshao.com/codes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Codes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2020 14:47:19 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Codes</title>
+      <link>https://zwshao.com/codes/</link>
+    </image>
+    
+  </channel>
+</rss>

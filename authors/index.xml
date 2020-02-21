@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Zhiwei Shao&#39;s Homepage</title>
+    <link>https://zwshao.com/authors/</link>
+      <atom:link href="https://zwshao.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>https://zwshao.com/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://zwshao.com/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zwshao.com/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Zhiwei Shao (邵志伟), currently a fourth year undergraduate student at 
+&lt;a href=&#34;https://astronomy.nju.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School of Astronomy and Space Science&lt;/a&gt;, 
+&lt;a href=&#34;https://www.nju.edu.cn/en/main.psp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nanjing University&lt;/a&gt;. My main research interests focus on cosmology and galaxy evolution, while currently I&amp;rsquo;m also working on the kilonova ejecta structure associated with AT 2017gfo. You can find my CV &lt;a href=&#34;https://zwshao.com/files/cv.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
