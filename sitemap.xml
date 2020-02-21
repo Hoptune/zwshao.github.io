@@ -23,7 +23,37 @@
   </url>
   
   <url>
+    <loc>https://zwshao.com/categories/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zwshao.com/tags/gravitational-wave/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zwshao.com/tags/kilonova/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zwshao.com/tags/neutron-star/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zwshao.com/categories/research/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zwshao.com/post/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zwshao.com/tags/</loc>
     <lastmod>2020-02-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -37,10 +67,6 @@
   </url>
   
   <url>
-    <loc>https://zwshao.com/categories/</loc>
-  </url>
-  
-  <url>
     <loc>https://zwshao.com/publication_types/</loc>
   </url>
   
@@ -50,10 +76,6 @@
   
   <url>
     <loc>https://zwshao.com/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zwshao.com/tags/</loc>
   </url>
   
 </urlset>

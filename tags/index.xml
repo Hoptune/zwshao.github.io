@@ -5,12 +5,36 @@
     <link>https://zwshao.com/tags/</link>
       <atom:link href="https://zwshao.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>https://zwshao.com/tags/</link>
     </image>
+    
+    <item>
+      <title>gravitational wave</title>
+      <link>https://zwshao.com/tags/gravitational-wave/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://zwshao.com/tags/gravitational-wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kilonova</title>
+      <link>https://zwshao.com/tags/kilonova/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://zwshao.com/tags/kilonova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neutron star</title>
+      <link>https://zwshao.com/tags/neutron-star/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://zwshao.com/tags/neutron-star/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
