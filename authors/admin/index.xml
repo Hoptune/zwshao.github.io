@@ -5,21 +5,12 @@
     <link>https://zwshao.com/authors/admin/</link>
       <atom:link href="https://zwshao.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhiwei Shao&#39;s Homepage</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Feb 2020 10:05:36 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Zhiwei Shao&#39;s Homepage</title>
       <link>https://zwshao.com/authors/admin/</link>
     </image>
-    
-    <item>
-      <title>Article Name</title>
-      <link>https://zwshao.com/blog/article-name/</link>
-      <pubDate>Sat, 22 Feb 2020 10:05:36 +0800</pubDate>
-      <guid>https://zwshao.com/blog/article-name/</guid>
-      <description>&lt;p&gt;Article&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Anisotropic Ejecta Distribution of Kilonova AT 2017gfo</title>
