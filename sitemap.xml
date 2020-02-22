@@ -3,27 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zwshao.com/codes/</loc>
-    <lastmod>2020-02-21T14:47:19+08:00</lastmod>
+    <loc>https://zwshao.com/project/xigrm/</loc>
+    <lastmod>2020-02-22T10:16:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zwshao.com/</loc>
+    <lastmod>2020-02-22T10:16:44+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://zwshao.com/authors/admin/</loc>
-    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-22T10:05:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zwshao.com/post/kilonova_at2017gfo/</loc>
-    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+    <loc>https://zwshao.com/blog/article-name/</loc>
+    <lastmod>2020-02-22T10:05:36+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://zwshao.com/authors/</loc>
-    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-22T10:05:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zwshao.com/blog/</loc>
+    <lastmod>2020-02-22T10:05:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zwshao.com/categories/blog/</loc>
+    <lastmod>2020-02-22T10:05:36+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://zwshao.com/categories/</loc>
+    <lastmod>2020-02-22T10:05:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zwshao.com/project/</loc>
+    <lastmod>2020-02-21T14:47:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zwshao.com/post/kilonova_at2017gfo/</loc>
     <lastmod>2020-02-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -55,15 +80,6 @@
   <url>
     <loc>https://zwshao.com/tags/</loc>
     <lastmod>2020-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zwshao.com/</loc>
-    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zwshao.com/blog/</loc>
   </url>
   
   <url>
