@@ -5,12 +5,28 @@
     <link>https://zwshao.com/tags/</link>
       <atom:link href="https://zwshao.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Feb 2020 12:13:39 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>https://zwshao.com/tags/</link>
     </image>
+    
+    <item>
+      <title>Chinese</title>
+      <link>https://zwshao.com/tags/chinese/</link>
+      <pubDate>Sun, 23 Feb 2020 12:13:39 +0800</pubDate>
+      <guid>https://zwshao.com/tags/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>daily</title>
+      <link>https://zwshao.com/tags/daily/</link>
+      <pubDate>Sun, 23 Feb 2020 12:13:39 +0800</pubDate>
+      <guid>https://zwshao.com/tags/daily/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>gravitational wave</title>
