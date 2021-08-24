@@ -3,62 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zwshao.com/authors/admin/</loc>
-    <lastmod>2020-06-24T23:04:39+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zwshao.com/authors/</loc>
-    <lastmod>2020-06-24T23:04:39+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zwshao.com/blog/</loc>
-    <lastmod>2020-06-24T23:04:39+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zwshao.com/categories/</loc>
-    <lastmod>2020-06-24T23:04:39+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zwshao.com/tags/chinese/</loc>
-    <lastmod>2020-06-24T23:04:39+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zwshao.com/categories/diary/</loc>
-    <lastmod>2020-06-24T23:04:39+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zwshao.com/tags/plans/</loc>
-    <lastmod>2020-06-24T23:04:39+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zwshao.com/tags/</loc>
-    <lastmod>2020-06-24T23:04:39+08:00</lastmod>
+    <loc>https://zwshao.com/project/xigrm/</loc>
+    <lastmod>2020-02-22T10:16:44+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://zwshao.com/</loc>
-    <lastmod>2020-06-24T23:04:39+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zwshao.com/blog/june24_2020/</loc>
-    <lastmod>2020-06-24T23:04:39+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zwshao.com/blog/feb23_2020/</loc>
-    <lastmod>2020-02-23T12:13:39+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zwshao.com/project/xigrm/</loc>
     <lastmod>2020-02-22T10:16:44+08:00</lastmod>
   </url>
   
@@ -68,7 +18,22 @@
   </url>
   
   <url>
+    <loc>https://zwshao.com/authors/admin/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zwshao.com/post/kilonova_at2017gfo/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zwshao.com/authors/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zwshao.com/categories/</loc>
     <lastmod>2020-02-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -95,6 +60,15 @@
   <url>
     <loc>https://zwshao.com/post/</loc>
     <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zwshao.com/tags/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zwshao.com/blog/</loc>
   </url>
   
   <url>
